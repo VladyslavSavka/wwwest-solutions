@@ -1,0 +1,15 @@
+.home-bg {
+    background-image: url("https://images.wallpaperscraft.ru/image/kod_stroki_programmirovanie_130775_1280x1280.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.home-title {
+    padding: 4em 0;
+    color: rgb(226, 207, 207);
+    margin: 0;
+}
+
+.home-title span {
+    color: yellow;
+}
